@@ -6,6 +6,8 @@
 
 A reasoning + evaluation layer that turns messy real-world input into a structured Assessment. **Reliable, measurable, fails safely** — not a clever prompt.
 
+**Live URL:** [https://nextstep-prompt.vercel.app](https://nextstep-prompt.vercel.app)
+
 ---
 
 ## TL;DR — what makes this submission different

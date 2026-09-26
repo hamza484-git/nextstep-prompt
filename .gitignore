@@ -6,3 +6,6 @@ __pycache__/
 .DS_Store
 .vercel/
 evals/_runlog.txt
+
+.vercel
+.env*
